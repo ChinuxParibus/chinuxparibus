@@ -1,13 +1,16 @@
 ![Avocado](https://chinuxparibus.github.io/avocado.jpeg)
 
-# 🥑 Un aguacate que programa 🥑
-## Chocolate, Javascript, Aguacates, Memes y algo más
+<h1 align="center">🥑 Un aguacate que programa 🥑</h1>
+<h2 align="center">Chocolate, Javascript, Aguacates, Memes y algo más</h2>
 
-¡Buenos días, buenas tardes o buenas noches! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">. Dondequiera que te encuentres...
+<p align="center">¡Buenos días, buenas tardes o buenas noches! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">. Dondequiera que te encuentres...
+</p>
 
-Me llamo Jhony, y soy un aguacate que programa
+<p align="center">Me llamo Jhony, y soy un aguacate que programa 🤗</p>
 
-Te puedes comunicar conmigo a través de mis redes sociales
+<p align="center">Actualmente soy profesor/mentor en <a href="https://4geeksacademy.co/es/la-academia" target="_blank">4 Geeks Academy España</a>. Un sitio muy <a href="https://es.wikipedia.org/wiki/Ch%C3%A9vere" target="_blank">chévere</a> para trabajar 💚</p>
+
+<p align="center">Si quieres saber más sobre mí, puedes comunicarte conmigo a través de mis redes sociales</p>
 
 <p align="center">
 <a href="https://chinuxparibus.github.io/work" target="_blank">
@@ -31,7 +34,7 @@ Te puedes comunicar conmigo a través de mis redes sociales
 <img src="https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif" width="250px"/>
 </p>
 
-<details>
+<details align="center">
   <summary>Acá algunos números, por si quieres saber más 😉</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=chinuxparibus&show_icons=true&theme=merko" alt="Avocado Stats">
