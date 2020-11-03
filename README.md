@@ -1,4 +1,4 @@
-![Avocado](https://chinuxparibus.github.io/avocado.jpeg)
+<p align="center"><img src="NORD-header.png" alt="Nord Avocado Header"/></p>
 
 <h1 align="center">🥑 Un aguacate que programa 🥑</h1>
 
@@ -38,20 +38,5 @@
 <details align="center">
   <summary>Acá algunos números, por si quieres saber más 😉</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=chinuxparibus&show_icons=true&theme=merko" alt="Avocado Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinuxparibus&show_icons=true&theme=nord" alt="Avocado Stats">
 </details>
-
-<!--
-**ChinuxParibus/chinuxparibus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
