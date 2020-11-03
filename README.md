@@ -1,6 +1,7 @@
 ![Avocado](https://chinuxparibus.github.io/avocado.jpeg)
 
 <h1 align="center">🥑 Un aguacate que programa 🥑</h1>
+
 <h2 align="center">Chocolate, Javascript, Aguacates, Memes y algo más</h2>
 
 <p align="center">¡Buenos días, buenas tardes o buenas noches! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">. Dondequiera que te encuentres...
