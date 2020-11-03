@@ -17,17 +17,17 @@
 <a href="https://chinuxparibus.github.io/work" target="_blank">
   <img alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/chinux" target="_blank">
+<a href="https://twitter.com/ch1nux" target="_blank">
   <img alt="Un Aguacate que Programa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jhonygrillet/" target="_blank">
-  <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Un Aguacate que Programa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://t.me/ch1nux" target="_blank">
-  <img alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img alt="Un Aguacate que Programa | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ch1nux/" target="_blank">
-  <img alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="Un Aguacate que Programa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
 
