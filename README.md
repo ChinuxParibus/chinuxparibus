@@ -1,6 +1,6 @@
 <p align="center"><img src="NORD-header.png" alt="Nord Avocado Header"/></p>
 
-<h1 align="center">🥑 Un aguacate que programa 🥑</h1>
+<h1 align="center">🥑 El Aguacate Programador 🥑</h1>
 
 <h2 align="center">Chocolate, Javascript, Aguacates, Memes y algo más</h2>
 
