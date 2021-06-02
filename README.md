@@ -9,12 +9,10 @@
 
 <p align="center">Me llamo Jhony, y soy el aguacate programador 🤗</p>
 
-<p align="center">Actualmente soy profesor/mentor en <a href="https://4geeksacademy.co/es/la-academia" target="_blank">4 Geeks Academy España</a>. Un sitio muy <a href="https://es.wikipedia.org/wiki/Ch%C3%A9vere" target="_blank">chévere</a> para trabajar 💚</p>
-
 <p align="center">Si quieres saber más sobre mí, puedes comunicarte conmigo a través de mis redes sociales</p>
 
 <p align="center">
-<a href="https://chinuxparibus.github.io/work" target="_blank">
+<a href="https://ch1nux.github.io/work" target="_blank">
   <img alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/ch1nux" target="_blank">
