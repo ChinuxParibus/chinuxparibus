@@ -38,5 +38,5 @@
 <details align="center">
   <summary>Acá algunos números, por si quieres saber más 😉</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=chinuxparibus&show_icons=true&theme=nord" alt="Avocado Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ch1nux&show_icons=true&theme=nord" alt="Avocado Stats">
 </details>
