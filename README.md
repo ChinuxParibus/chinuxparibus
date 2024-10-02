@@ -7,7 +7,7 @@
 <p align="center">¡Buenos días, buenas tardes o buenas noches! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">. Dondequiera que te encuentres...
 </p>
 
-<p align="center">Me llamo Jhony, y soy el aguacate programador 🤗</p>
+<p align="center">Me llamo Jhony, y me dicen "El Aguacate" 🥑</p>
 
 <p align="center">Si quieres saber más sobre mí, puedes comunicarte conmigo a través de mis redes sociales</p>
 
